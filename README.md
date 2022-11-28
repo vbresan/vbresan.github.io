@@ -15,7 +15,7 @@ Here is the list of things that I am currently working on:
 
 # Web projects:
 - [Covid19 Travel Information](https://covid19travel.com)
-- [Moja mirovina - Informativni izračun | kalkulator mirovine](https://mojamirovina.com) (Croatian language)
+- [Moja mirovina - Informativni izračun || kalkulator mirovine](https://mojamirovina.com) (Croatian language)
 - [Uplati me - bar kod generator za uplatnice HUB 3A](https://uplatime.com) (Croatian language)
 
 # Android apps (some of):
