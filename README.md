@@ -1,15 +1,18 @@
 My name is Viktor Brešan and I am Owner & Software Developer at [Binary Solutions](https://binarysolutions.biz/).
 
+# My personal blog:
+- [Viktor Brešan's Personal Blog](https://viktorbresan.blogspot.com/)
+
 # My other network profiles:
-- [Viktor Brešan on LinkedIn](https://www.linkedin.com/in/viktorbresan/)
-- [Viktor Brešan on StackOverflow](https://stackoverflow.com/users/96313/viktor-bre%c5%a1an)
-- [Viktor Brešan on GitHub](https://github.com/vbresan)
 - [Viktor Brešan on Facebook](https://www.facebook.com/viktorbresan)
+- [Viktor Brešan on LinkedIn](https://www.linkedin.com/in/viktorbresan/)
 - [Viktor Brešan on Twitter](https://twitter.com/viktorbresan)
-- [Viktor Brešan on About.me](https://about.me/viktorbresan)
+- [Viktor Brešan on GitHub](https://github.com/vbresan)
+- [Viktor Brešan on StackOverflow](https://stackoverflow.com/users/96313/viktor-bre%c5%a1an)
 - [Viktor Brešan on Product Hunt](https://www.producthunt.com/@viktor.bresan)
 - [Viktor Brešan on GoodReads](https://www.goodreads.com/viktorbresan)
-- [Viktor Brešan's Personal Blog](https://viktorbresan.blogspot.com/)
+- [Viktor Brešan on About.me](https://about.me/viktorbresan)
+- [Viktor Brešan on Linktree](https://linktr.ee/viktorbresan)
 
 <br />
 Here is the list of things that I am currently working on:
