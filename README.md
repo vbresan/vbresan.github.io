@@ -4,7 +4,7 @@ My journey has taken me through a diverse range of companies, from large corpora
 
 In the spirit of transparency, collaboration and knowledge sharing, I have decided to open-source some of these apps. This decision was also motivated by the current market dominance of Google and the challenges that indie developers face. I believe that open-source software can provide a counterbalance, fostering a more diverse and fair app ecosystem. 
 
-I invite you to explore the projects that are available on my GitHub profile. If you find them interesting or useful, don't hesitate to show your support or contribute to them. Your input is greatly appreciated.
+I invite you to explore the [projects](https://github.com/vbresan#open-sourced-android-apps) that are available on my GitHub profile. If you find them interesting or useful, don't hesitate to show your support or contribute to them. Your input is greatly appreciated.
 
 # My personal blog:
 - [Viktor Brešan's Personal Blog](https://viktorbresan.blogspot.com/)
